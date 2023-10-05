@@ -24,6 +24,7 @@ function resta(x, y) {
 function divide(x, y) {
    // Retorna el resultado de su división.
    // Tu código:
+   return x / y;
 }
 
 function multiplica(x, y) {
